@@ -357,3 +357,21 @@ console.log(isHappyTicket('00'));     // true
 //   }
 //   findNumber(11,20)
 
+// switch case function (инструкция по switch)
+// function getNumberExplanation(num) {
+//   switch (num) {
+//     case 0:
+//       num = 'just a number';
+//       break;
+//     case 666:
+//           num = 'devil number';
+//       break;
+//       case 42:
+//           num = 'answer for everything';
+//           break;
+//       case 7:
+//           num = 'prime number';
+//   }
+//   return num;
+// };
+
